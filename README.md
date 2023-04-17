@@ -12,13 +12,15 @@ Ce projet est une application Web de gestion des produits (Téléphones) dévelo
 - Express.js
 - React
 - Node.js
-Et Bootstrap
+- Et Bootstrap
+
+Une application Desktop qui consomme l'API. Nous avons choisi WPF App (.NET Framework).
 
 #### Environnement de développement
 
 Visual Studio Code, Visual Studio
 
-### Utilisation
+## Utilisation
 #### BackEnd
 https://user-images.githubusercontent.com/72112800/232368813-235805a2-809a-47dc-b6cc-9d1ab4ac4614.mp4
 
@@ -28,6 +30,18 @@ https://user-images.githubusercontent.com/72112800/232373079-9f8f034d-d906-48c5-
 #### FrontEnd
 
 https://user-images.githubusercontent.com/72112800/232373658-582ff42e-03cd-47c9-a3fe-b7d2af2503f1.mp4
+
+
+## Support
+Iliass Amaich iliamaich@gmail.com
+
+
+## Etat du projet
+
+Nous allons continuer à améliorer ce projet surtout la consommation de l’API avec WFP application. Nous devons trouver une méthode pour afficher les images des produits parce que notre model contient des images. Et, on doit ajouter le reste des opérations CRUD (Ajouter, Supprimer et Mettre à jour les données).
+
+
+
 
 #### package.json  du côté Backend
 
