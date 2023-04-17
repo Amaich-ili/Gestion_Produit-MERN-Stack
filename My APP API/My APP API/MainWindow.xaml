@@ -1,0 +1,34 @@
+﻿<Window x:Class="My_APP_API.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:My_APP_API"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="700">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <DataGrid Name="product" 
+                  HorizontalAlignment="Left" 
+                  Height="239" Margin="96,71,0,0" 
+                  VerticalAlignment="Top" 
+                  Width="498"
+                  Background="#FF747E65">
+        </DataGrid>
+        <Label Content="Consommation de mon API - Afficher les produits" 
+               HorizontalAlignment="Left" 
+               Height="51" 
+               Margin="42,12,0,0" 
+               VerticalAlignment="Top" 
+               Width="600" 
+               Foreground="#FFE6E8D1" 
+               FontSize="24" 
+               HorizontalContentAlignment="Center" 
+               FontWeight="Bold"/>
+    </Grid>
+</Window>

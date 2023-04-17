@@ -1,0 +1,12 @@
+POST /api/products/ HTTP/1.1
+Content-Type: application/json
+Host: localhost:4000
+
+{
+    "name": "",
+    "quantity": 10,
+    "price": 450,
+    "version": "Global",
+    "chargeur": "US",
+    "image": "https://ae01.alicdn.com/kf/S8eec26f23f594012ac1ab0cc0d0e7a05y/Global-Rom-Xiaomi-Redmi-Note-11E-Pro-11-E-Pro-5G-Smartphone-Snapdragon-695-128-256GB.jpg_220x220xz.jpg_.webp"
+}

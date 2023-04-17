@@ -1,0 +1,13 @@
+PUT /api/Products/6403e0b79af9da780cecabc3 HTTP/1.1
+Content-Type: application/json
+Host: localhost:4000
+
+{
+    "name": "Xiaomi Redmi note 11",
+    "quantity": 10,
+    "price": 500,
+    "version": "Global",
+    "chargeur": "EU",
+    "image": "https://ae01.alicdn.com/kf/S9b745932cfc64e6c87b150e509b89dbcs/Global-Rom-Xiaomi-Redmi-Note-11T-Pro-5G-Smartphone-Dimensity-8100-144Hz-Screen-64MP-Camera-5080mAh.jpg_220x220xz.jpg_.webp"
+
+}

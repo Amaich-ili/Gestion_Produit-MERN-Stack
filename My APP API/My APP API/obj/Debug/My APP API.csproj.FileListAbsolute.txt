@@ -1,0 +1,44 @@
+D:\APP dev Travail\My APP API\My APP API\bin\Debug\My APP API.exe.config
+D:\APP dev Travail\My APP API\My APP API\bin\Debug\My APP API.exe
+D:\APP dev Travail\My APP API\My APP API\bin\Debug\My APP API.pdb
+D:\APP dev Travail\My APP API\My APP API\bin\Debug\Newtonsoft.Json.dll
+D:\APP dev Travail\My APP API\My APP API\bin\Debug\System.Net.Http.Extensions.dll
+D:\APP dev Travail\My APP API\My APP API\bin\Debug\System.Net.Http.Formatting.dll
+D:\APP dev Travail\My APP API\My APP API\bin\Debug\System.Net.Http.Primitives.dll
+D:\APP dev Travail\My APP API\My APP API\bin\Debug\Newtonsoft.Json.xml
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\My APP API.csproj.AssemblyReference.cache
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\My APP API.csproj.SuggestedBindingRedirects.cache
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\MainWindow.g.cs
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\App.g.cs
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\My APP API_MarkupCompile.cache
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\My APP API_MarkupCompile.lref
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\MainWindow.baml
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\My APP API.g.resources
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\My_APP_API.Properties.Resources.resources
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\My APP API.csproj.GenerateResource.cache
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\My APP API.csproj.CoreCompileInputs.cache
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\My APP API.csproj.CopyComplete
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\My APP API.exe
+D:\APP dev Travail\My APP API\My APP API\obj\Debug\My APP API.pdb
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\bin\Debug\My APP API.exe.config
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\bin\Debug\My APP API.exe
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\bin\Debug\My APP API.pdb
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\My APP API.csproj.AssemblyReference.cache
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\My APP API.csproj.SuggestedBindingRedirects.cache
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\MainWindow.g.cs
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\App.g.cs
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\My APP API_MarkupCompile.cache
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\My APP API_MarkupCompile.lref
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\MainWindow.baml
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\My APP API.g.resources
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\My_APP_API.Properties.Resources.resources
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\My APP API.csproj.GenerateResource.cache
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\My APP API.csproj.CoreCompileInputs.cache
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\My APP API.csproj.CopyComplete
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\My APP API.exe
+C:\Users\amaic\Desktop\Projet_Final_WebServices\My APP API\My APP API\obj\Debug\My APP API.pdb
