@@ -32,6 +32,15 @@ https://user-images.githubusercontent.com/72112800/232373079-9f8f034d-d906-48c5-
 https://user-images.githubusercontent.com/72112800/232373658-582ff42e-03cd-47c9-a3fe-b7d2af2503f1.mp4
 
 
+#### package.json  du côté Backend
+
+![Image7](https://user-images.githubusercontent.com/72112800/232374073-251755e8-5b87-47b1-a0a7-63177f78c336.png)
+
+#### package.json  du côté Client
+
+![Image8](https://user-images.githubusercontent.com/72112800/232374131-040588c5-04c1-4a20-ae50-5b485f00aed7.png)
+
+
 ## Support
 Iliass Amaich iliamaich@gmail.com
 
@@ -42,11 +51,3 @@ Nous allons continuer à améliorer ce projet surtout la consommation de l’API
 
 
 
-
-#### package.json  du côté Backend
-
-![Image7](https://user-images.githubusercontent.com/72112800/232374073-251755e8-5b87-47b1-a0a7-63177f78c336.png)
-
-#### package.json  du côté Client
-
-![Image8](https://user-images.githubusercontent.com/72112800/232374131-040588c5-04c1-4a20-ae50-5b485f00aed7.png)
