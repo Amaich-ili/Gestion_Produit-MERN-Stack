@@ -7,9 +7,20 @@ Les étudiant.e.s seront en mesure de concevoir, développer et documenter :
 
 ### Projet :   Gestion Produits
 
-Ce projet est une application Web de gestion des produits (Téléphones) développé par la technologie MERN stack (MongoDB, Express.js, React et Node.js).
+Ce projet est une application Web de gestion des produits (Téléphones) développé par la technologie MERN stack 
+- MongoDB 
+- Express.js
+- React
+- Node.js
+
+#### Environnement de développement
+
+Visual Studio Code, Visual Studio
 
 ### Utilisation
-
+#### BackEnd
 https://user-images.githubusercontent.com/72112800/232368813-235805a2-809a-47dc-b6cc-9d1ab4ac4614.mp4
+
+#### FrontEnd
+
 
